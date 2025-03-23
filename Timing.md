@@ -110,7 +110,3 @@
    - **Extra**: call an api to create some instance of class and show them with `__str__`
 ---
 
-  - Deadline: 3 days after Project 1.  
-  - Push a Python script that uses `requests` to fetch data from an API.  
-
----
