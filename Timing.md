@@ -25,16 +25,15 @@
   - Virtual Machine setup (VirtualBox/VMware).  
   - Terminal basics: `cd`, `ls`, `mkdir`, `grep`, `chmod`.  
   - File system navigation (`/home`, `/var`, `/etc`).  
-- **Notes**: Provide troubleshooting tips for common installation errors.  
+- **Notes**: add a link to this content notes later 
 
 ---
 
 ## First Section: Introduction  
 **Properties**  
 - **Title**: Introduction to Web Development  
-- **Deadline**: Complete before Project 1 starts.  
 - **Teachers**: [Instructor Name(s)]  
-- **Place**: Online (Zoom/Google Meet).  
+- **Place**: In-Person [place].  
 - **Considerations**:  
   - Assume no prior web development knowledge.  
   - Ensure students have installed VS Code, Git, and Python.  
@@ -46,7 +45,7 @@
 - Post-Section Contents
   - GitHub Personal Site
 ---
-## Project 1  
+## Exercises & Homework  
 **Properties**  
 - **Title**: Personal GitHub Portfolio  
 - **Deadline**: 5 days after First Section.  
@@ -65,21 +64,14 @@
 ## Second Section: Python Refresher  
 **Properties**  
 - **Title**: Python Crash Course for Django  
-- **Deadline**: 1 week after the live session.  
 - **Teachers**: [Instructor Name(s)]  
-- **Place**: Online (Interactive coding session).  
-- **Considerations**:  
-  - Use Python 3.10+.  
-  - Ensure students have activated virtual environments.  
+- **Place**: Online and In-Person [Unknonw].    
 - **Required Contents**:  
   - Python syntax, data structures, OOP, modules.  
-  - Code-along exercises (e.g., Task Manager CLI).  
-- **Notes**: Provide cheat sheets for Python↔Django mappings (e.g., classes → models).  
-- **Slides**: Link Python concepts to Django (e.g., functions → views).  
-
+  - Code-along exercises (e.g., Task Manager CLI).
+- **Notes**: Provide cheat sheets and Slides. and a note to read + videos.  
 ---
-
-## Exercises & Homework  
+## Project 1  
 **Collaborative Day**: Schedule a 2-hour live coding session for:  
 - Debugging the Number Guessing Game (validate inputs, add hints).  
 - Extending the Task Manager CLI with file I/O (JSON).  
@@ -91,7 +83,7 @@
    - Track the number of attempts with a loop.
    - **Task**: Modify the game to accept only valid integers (handle invalid inputs).
 
-3. **Task Manager CLI**
+2. **Task Manager CLI**
    - Use a dictionary to store tasks (keys: IDs, values: task descriptions).
    - Write functions to:
         - Add/remove tasks.
@@ -101,7 +93,7 @@
    - **Extra**: Refactor the code to use classes instead of dictionary.
    - **Extra**: Refactor the code to save the tasks in a file with functions in helper module
  
-5. **Blog System with Classes**  
+3. **Blog System with Classes**  
    - Create `Post` and `Comment` classes.
    - `Post` attributes: `title`, `content`, `author`, `comments` (list of `Comment` objects).
    - Save/load posts to a file (JSON or text).
