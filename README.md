@@ -55,7 +55,6 @@ Backend bootcamp repo
 ### Slides
 
 #### 💡 Homework:  
-- create a github personal portofillo
 - Set up your own Django project repository on GitHub and customize a basic app (e.g., change the welcome message or add a simple page).
 - and more ...
 

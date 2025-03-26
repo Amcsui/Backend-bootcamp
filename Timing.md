@@ -42,22 +42,9 @@
   - Course roadmap: Frontend/backend basics, Django, final project.  
 - **Notes**: Record the session for later review.  
 - **Slides**: Include diagrams of client-server architecture.  
-- Post-Section Contents
+- **Post-Section Contents:**
   - GitHub Personal Site
----
-## Exercises & Homework  
-**Properties**  
-- **Title**: Personal GitHub Portfolio  
-- **Deadline**: 5 days after First Section.  
-- **Required Contents**:  
-  - Create a GitHub account (if missing).  
-  - Build a repository with:  
-    - A `README.md` introducing yourself.  
-    - A Python script (e.g., "Hello World" or simple calculator).  
-  - Push code using Git commands or VS Code extensions.  
-
-**Description**  
-- Practice version control basics and prepare for collaborative work in later projects.  
+- **exercise:** [[Problem Set 1]]
 
 ---
 
