@@ -28,3 +28,7 @@
 - [Django Authentication Docs](https://docs.djangoproject.com/en/4.2/topics/auth/)
 - [Testing in Django](https://docs.djangoproject.com/en/4.2/topics/testing/)
 - [Admin Customization Guide](https://realpython.com/customize-django-admin-python/
+
+---
+**after course content**:
+- github action for automated testing
