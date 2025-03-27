@@ -5,7 +5,6 @@
 - **Required Info**: Name, email, GitHub username, prior coding experience (if any).  
 
 ---
-
 ## Define Teams and Mentors  
 - **Team Size**: 3–4 members.  
 - **Mentor Allocation**: 1 mentor per 2 teams.  
@@ -13,13 +12,10 @@
 - **Mentor Roles**: Code reviews, weekly check-ins, debugging support.  
 
 ---
-
 ## First Content: Linux Handbook  
 **Properties**  
 - **Title**: Linux Basics & Environment Setup  
-- **Deadline**: 3 days after publish date.  
 - **Publish Day**: [Start date, e.g., "DD/MM/YYYY"]  
-- **Participants**: All registered students.  
 - **Required Contents**:  
   - Dual-boot installation guide (Ubuntu).  
   - Virtual Machine setup (VirtualBox/VMware).  
@@ -27,8 +23,8 @@
   - File system navigation (`/home`, `/var`, `/etc`).  
 - **Notes**: add a link to this content notes later 
 
----
 
+---
 ## First Section: Introduction  
 **Properties**  
 - **Title**: Introduction to Web Development  
@@ -44,10 +40,15 @@
 - **Slides**: Include diagrams of client-server architecture.  
 - **Post-Section Contents:**
   - GitHub Personal Site
-- **exercise:** [[Problem Set 1]]
 
 ---
+## Problem Set 1
+**properties**:
+- **title**: intro
+- **deadline**: 
+- **link**: [[Problem Set 1]]
 
+---
 ## Second Section: Python Refresher  
 **Properties**  
 - **Title**: Python Crash Course for Django  
@@ -57,35 +58,101 @@
   - Python syntax, data structures, OOP, modules.  
   - Code-along exercises (e.g., Task Manager CLI).
 - **Notes**: Provide cheat sheets and Slides. and a note to read + videos.  
+
 ---
-## Project 1  
-**Collaborative Day**: Schedule a 2-hour live coding session for:  
-- Debugging the Number Guessing Game (validate inputs, add hints).  
-- Extending the Task Manager CLI with file I/O (JSON).  
+## Problem Set 2
+**properties**:
+- **title**: Python Refresher
+- **deadline**: 
+- **link**: [[Problem Set 2]]
 
-**Structured Exercises**:  
-1. **Number Guessing Game**
-   - Write a script where the user guesses a random number (1–20).
-   - Use `if/else` to give hints ("Too high!", "Too low!").
-   - Track the number of attempts with a loop.
-   - **Task**: Modify the game to accept only valid integers (handle invalid inputs).
+---
+## Third Section: Introduction to Web (Markup & Django)
 
-2. **Task Manager CLI**
-   - Use a dictionary to store tasks (keys: IDs, values: task descriptions).
-   - Write functions to:
-        - Add/remove tasks.
-        - List all tasks.
-        - Search tasks by keyword.
-   - **Extra**: Refactor the code to use **list comprehensions** for filtering/searching tasks.
-   - **Extra**: Refactor the code to use classes instead of dictionary.
-   - **Extra**: Refactor the code to save the tasks in a file with functions in helper module
+**Properties**  
+- **Title**: Introduction to Web (Markup & Django)
+- **Teachers**: [Instructor Name(s)]  
+- **Place**: Online and In-Person [Unknonw].    
+- **Required Contents**:    
+	- **HTML/CSS**: Forms, Bootstrap grid.        
+    - **Django**: Project setup, MVT pattern, routing.
+- **Notes**: 
+	- Starter code provided for Django project.
+	- Provide cheat sheets and Slides. and a note to read + videos.  
+
+---
+## Problem Set 3
+**properties**:
+- **title**: django uncharted
+- **deadline**: 
+- **link**: [[Problem Set 3]]
+
+---
+## Fourth Section: Database
+**Properties**  
+- **Title**: DB DB DB
+- **Teachers**: [Instructor Name(s)]  
+- **Place**: Online and In-Person [Unknonw].    
+- **Required Contents**:    
+- **Notes**: Provide cheat sheets and Slides. and a note to read + videos.  
+
+---
+## Problem Set 4
+**properties**:
+- **title**: dbms or bdsm? that is the question
+- **deadline**: 
+- **link**: [[Problem Set 4]]
+
+---
+## Fifth Section: Auth & Test
+**Properties**  
+- **Title**: who? 403 permission denied  
+- **Teachers**: [Instructor Name(s)]  
+- **Place**: Online and In-Person [Unknonw].    
+- **Required Contents**:    
+- **Notes**: Provide cheat sheets and Slides. and a note to read + videos.  
+
+---
+## Second Content: Testing Handbook
+**Properties**  
+- **Title**: testing
+- **Publish Day**: [Start date, e.g., "DD/MM/YYYY"]  
+- **Required Contents**:  
+    - TDD workflow.
+    - Testing types.
+    - CI/CD with GitHub Actions.
+- **Notes**: add a link to this content notes later 
+
+----
+## Problem Set 5
+**properties**:
+- **title**: ki? ki?  
+- **deadline**: 
+- **link**: [[Problem Set 5]]
  
-3. **Blog System with Classes**  
-   - Create `Post` and `Comment` classes.
-   - `Post` attributes: `title`, `content`, `author`, `comments` (list of `Comment` objects).
-   - Save/load posts to a file (JSON or text).
-   - Add exception handling for invalid data.
-   - **Extra**: Add a decorator `@log_activity` to log when a post is created/edited.
-   - **Extra**: call an api to create some instance of class and show them with `__str__`
+ ---
+## Sixth Section: What's Next
+**Properties**  
+- **Title**: Beyond the Bootcamp
+- **Teachers**: [Instructor Name(s)]  
+- **Place**: Online and In-Person [Unknonw].    
+- **Required Contents**:    
+
 ---
 
+## Third Content: Some advanced topic
+**Properties**  
+- **Title**: pass
+- **Publish Day**: [Start date, e.g., "DD/MM/YYYY"]  
+- **Required Contents**:  
+	- Microservice architecture.
+	- Caching, load balancing.
+	- etc.
+- **Notes**: add a link to this content notes later 
+
+---
+## Final project:
+- **title**: 
+- **deadline**: 
+- **link**: 
+ 
