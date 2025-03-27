@@ -33,6 +33,7 @@
 	- GitHub Actions [15 min]:
 	    - Automate testing/linting on pull requests.
 	    - Deploy to Heroku/AWS on `main` branch push.
-6. Roadmap [15 min]
+6. Monitoring and Logging
+7. Roadmap [15 min]
 	- Learning Paths:
 	    - Advanced Django, GraphQL, async (Django Channels).
