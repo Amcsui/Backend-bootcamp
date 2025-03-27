@@ -5,7 +5,7 @@
 ## What to Do
 1. submit [[SQL Practice]]
 2. submit at least one of :
-	- [[Library Management System]]
+	- [[Library Catalog System]]
 	- [[Social Media Clone]]
 ## When to Do it
 
