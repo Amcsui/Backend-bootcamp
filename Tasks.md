@@ -1,0 +1,5 @@
+- [ ] define teachers
+- [ ] declare notes 
+- [ ] provide notes
+- [ ] add a handbook for http and network
+- [ ] 
