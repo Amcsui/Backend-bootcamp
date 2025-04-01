@@ -1,0 +1,8 @@
+site_name: Backend Bootcamp
+site_url: https://backend.amcsui.ir
+theme:
+  name: material
+plugins:
+  - section-index
+  - search
+
