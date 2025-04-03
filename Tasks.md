@@ -2,4 +2,8 @@
 - [ ] declare notes 
 - [ ] provide notes
 - [ ] add a handbook for http and network
-- [ ] 
+- [ ] place and time [once a week]
+- [ ] content accessablity
+- [ ] Support an TA
+- [ ] forum and quera
+- [ ] convert obsidian links  
