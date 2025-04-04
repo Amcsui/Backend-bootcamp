@@ -1,8 +1,8 @@
 # Problem Set 3
 
 ## What to Do
-1. submit [[Personal GitHub Portfolio more]]
-2. submit [[Greeting]]
+1. submit [Personal GitHub Portfolio more](Personal GitHub Portfolio more.md)
+2. submit [Greeting](Greeting.md)
 ## When to Do it
 
 by [1403/MM/DD] at 23:59.
