@@ -1,10 +1,10 @@
 # Problem Set 2
 
 ## What to Do
-1. submit [[Number Guessing Game]]
+1. submit [Number Guessing Game](Number Guessing Game.md)
 2. Submit at least one of:
-	- [[Task Manager CLI]]
-	- [[Blog System with Classes]]
+	- [Task Manager CLI](Task Manager CLI.md)
+	- [Blog System with Classes](Blog System with Classes.md)
 
 ## When to Do it
 
