@@ -1,8 +1,79 @@
 site_name: Backend Bootcamp
-site_url: https://backend.amcsui.ir
+site_url: http://127.0.0.1:8000
+
+plugins:
+  - search
+  - section-index
+
 theme:
   name: material
-plugins:
-  - section-index
-  - search
+  palette: 
 
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/lightbulb-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: white
+      accent: black
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to system preference
+
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    # - navigation.tracking
+    - navigation.tabs
+    - navigation.path
+
+
+nav:
+  - Home: 
+    - index: index.md
+    - Overview: overview.md
+    - Bootcamp Introduction: onboarding.md
+
+
+  - Problem Sets:
+    - index: Problem Sets/index.md
+
+    - Problem Set 1: 
+      - index: Problem Sets/Problem Set 1/index.md
+      - Personal GitHub Portfolio: Problem Sets/Problem Set 1/Personal GitHub Portfolio.md
+
+    - Problem Set 2: 
+      - index: Problem Sets/Problem Set 2/index.md
+      - Number Guessing Game: Problem Sets/Problem Set 2/Number Guessing Game.md
+      - Blog System with Classes: Problem Sets/Problem Set 2/Blog System with Classes.md
+      - Task Manager CLI: Problem Sets/Problem Set 2/Task Manager CLI.md
+
+    - Problem Set 3: 
+      - index: Problem Sets/Problem Set 3/index.md
+      - Greeting: Problem Sets/Problem Set 3/Greeting.md
+      - Personal GitHub Portfolio more: Problem Sets/Problem Set 3/Personal GitHub Portfolio more.md
+
+    - Problem Set 4: 
+      - index: Problem Sets/Problem Set 4/index.md
+      - Library Catalog System: Problem Sets/Problem Set 4/Library Catalog System.md
+      - SQL Practice: Problem Sets/Problem Set 4/ SQL Practice.md
+      - Social Media Clone: Problem Sets/Problem Set 4/Social Media Clone.md
+
+    - Problem Set 5: 
+      - index: Problem Sets/Problem Set 5/index.md
+      - Job Board: Problem Sets/Problem Set 5/Job Board.md
+      - Library Catalog System More: Problem Sets/Problem Set 5/Library Catalog System More.md
