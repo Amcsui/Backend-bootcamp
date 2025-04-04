@@ -21,7 +21,7 @@
   - Virtual Machine setup (VirtualBox/VMware).  
   - Terminal basics: `cd`, `ls`, `mkdir`, `grep`, `chmod`.  
   - File system navigation (`/home`, `/var`, `/etc`).  
-- **Notes**: add a link to this content notes later 
+- **Notes**: [link](Contents/Linux-Handbook)
 
 
 ---
@@ -46,8 +46,7 @@
 **properties**:
 - **title**: intro
 - **deadline**: 
-- **link**: [[Problem Set 1]]
-
+- **link**: [Problem Set 1](Problem Sets/1/Problem Set 1)
 ---
 ## Second Section: Python Refresher  
 **Properties**  

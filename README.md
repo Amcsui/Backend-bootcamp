@@ -1,8 +1,9 @@
+
 # Welcome to **Backend Bootcamp** 🚀  
 **Your Journey to Web Development with Django Begins Here!**  
 
 
-## Why Take This Course?
+# Why This Course?
 **No Prior Web Development Experience Needed!**  
 This bootcamp is designed for **absolute beginners** with a hunger to learn. You only need:  
 - **Basic Programming Familiarity**: Loops, variables, and conditionals (in any language).  
@@ -10,10 +11,11 @@ This bootcamp is designed for **absolute beginners** with a hunger to learn. You
 
 We’ll start with Python/Linux basics and **build upward together**. By the end, you’ll deploy a full-stack app that impresses employers or kickstarts your freelance career.
 
-## How to take this course?
+# How to take this course?
 
 - enroll
 
+# About
 ## Bootcamp Overview
 A **6-week intensive program** designed to take you from coding basics to building secure, scalable web applications.  
 
