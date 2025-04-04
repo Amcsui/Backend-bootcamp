@@ -2,7 +2,7 @@
 # Problem Set 1
 
 ## What to Do
-1. submit [Personal GitHub Portfolio](Personal%20GitHub%20Portfolio.md)
+1. submit [Personal GitHub Portfolio](Personal GitHub Portfolio.md)
 
 ## When to Do it
 
