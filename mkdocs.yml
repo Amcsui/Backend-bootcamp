@@ -79,6 +79,10 @@ nav:
       - Job Board: Problem Sets/Problem Set 5/Job Board.md
       - Library Catalog System More: Problem Sets/Problem Set 5/Library Catalog System More.md
 
+  - Sections: 
+    - index: Sections/index.md
+    - Section 1: Sections/Section 1.md
+
 extra:
   social:
     - icon: fontawesome/brands/github 
